@@ -1,0 +1,26 @@
+/* ============ DATA: remaining strings ============ */
+Object.assign(D.L,{c_start:'In year 1 the shaman of the River Kaldar takes the seat at Kalda Vale.',c_law:'Law of {0}: "{1}".',c_dec:'{0}. You chose: {1}',c_tst:'You dictated your testament.'});
+D.dx={all:'All peoples',when:'{0} life, year {1}',lawWhy:'law "{0}", {1} life, year {2}',lawOld:'old custom "{0}"',kin:['child','grandchild','great-grandchild','distant heir'],people:'people at large',lifeYear:'your {0} life, year {1}',longAgo:'before memory',
+cmore:'more {0} in its ranks',cmoreIn:'More {0} in the {1}',fed1:'gains a charter',fed0:'loses its charter',opened:'ranks opened to all peoples',closed:'ranks closed to outsiders',
+shift:'Its young take up {0}',gain:'Speakers of {0} are adopting it',conv:'Conversions to the {0}',assim:'Families are entering the River Kaldar',massacre:'the massacre under the regents',regency:'The regency',season:'the season\'s drift',
+secFree:'it now stands alone',secKin:'it turned to its kin, the {0}',rooted:'Its people had not forgotten {0} ({1} life, year {2}).',conq:'the conquest of {0}',pact:'the pact that brought {0} into the realm',
+sc:['Lands held','Subjects','Legitimacy','Lives recognized','Contentment','Crafts','Wounds that never healed','Outcome'],
+advT:{army:'the Captain',priest:'the Keeper',council:'the Elder',noble:'the Clan Head',merch:'the Trader'},
+fav:'gratitude',ill:'resentment',lawTo:'Law of {0} becomes "{1}"',recE:'Your next recognition is easier',recH:'Your next recognition is harder',clS:'Rival claimants grow stronger',clW:'Rival claimants grow weaker',
+regentIs:'Regent named: the {0}',leaves:'{0} leaves the realm',openD:'Ranks of the {0} opened to all peoples',closeD:'Ranks of the {0} closed to outsiders',healD:'The old wound eases',assimD:'They are counted as River Kaldar',nudgeD:'Your next birth leans toward {0}',singN:'The Waking draws nearer',singF:'The Waking recedes',renown:'Renown',learn:'This body will speak Kaldic',
+chance:'{0} in 100',dirT:'Your directive',dirX:'The petitioners are gone. One thing this season you may do of your own will.',
+free:'no one',march:'March on {0}',marchD:'Treasury -8. Held by {0}. Mostly {1}. Taken by force, they arrive resentful and unintegrated.',marchW:'the land is taken. Otherwise the army is bloodied and Order falls. Battle risks this body',
+treat:'Offer {0} a pact',treatD:'Treasury -12. They join with a charter and a lasting good memory.',treatW:'they accept',
+patG:'Treasury -8, loyalty +10, grievance -8, wealth +3',patO:'Treasury -8, loyalty +10',repD:'Fear +40, grievance +10, Order +5',repH:'Fear fades. Grievance waits. They will remember.',
+openL:'Open the {0} to all peoples',openP:'Now {0} in 100 {1}. Its ranks shift toward the realm\'s mix. Loyalty -8, autonomy -5.',purgeL:'Purge the heads of the {0}',purgeP:'Autonomy -15, loyalty +6, power -8. Its dominant people are aggrieved. Knives sharpen.',
+riteYes:'Lie down on the stone',tReg:'Regent: the {0}',tRegP:'Their loyalty: {0}. Honoured if they are loyal or strong enough to take it anyway.',tNone:'Name no regent',tNoSign:'Leave no sign',
+tProph:'"I will return among the {0}."',tProphP:'Your birth leans threefold toward them. If you are born elsewhere, the prophecy counts against you.',tNoProph:'Prophesy nothing',
+tCache0:'Hide nothing',tCache:'Hide {0} from the treasury',tCacheP:'Returned half again to your next ruling life, unless the regents find it.',
+tstT:['Testament: who holds the seat','Testament: the sign','Testament: the prophecy','Testament: the cache'],
+tstX:['When this body dies, someone will rule until you are found. Name them, and hope they still obey a dead voice.','Leave a sign by which the searchers shall know the child. If those who control the Search are devoted, it helps you. If they are not, they may teach it to another.','Say where you will be born. It pulls the birth, and binds you to it.','Bury silver where only you would look.'],
+repM:'the repression of year {0}',legacy:'Laws proclaimed: {0}. Lands gained: {1}. Lands lost: {2}.',legMem:'Remembered for {0}.',deathT:'Death',noTst:'You left no testament.',
+dOrg:'The {0}: power {1}, autonomy {2}, loyalty {3}.',dReg:'It held the regency.',dShare:'{0}: {1} to {2} in every 100 subjects',dRes:'Treasury {0} to {1}. Food {2} to {3}. Order {4} to {5}. Legitimacy {6} to {7}.',dBel:'Belief in your return: {0} to {1}.',
+hidT:'Five More Years',hidX:'You keep your silence and grow. The regents keep the seat and grow comfortable.',reprisal:'the reprisals after the failed rising'};
+D.rx={t:'The Recognition',base:'A child who remembers',renown:'The soul\'s renown',birthBel:'Belief among the {0} of your birthplace',ctrl:'The {0} controls the Search',people:'The people judge',regent:'The {0} holds the regency',
+outs:'Born outside the {0}',tongue:'This body\'s first tongue is not Kaldic',bonded:'Born among the bonded',noble:'Born to a great house',foreign:'Born under a foreign banner',child:'Childhood and past preparation',tired:'The realm has tired of the one who sits in your seat',patron:'Backed by the {0}',
+right:'{0} right answers',wrong:'{0} wrong answers',total:'Your claim: {0}. Needed: {1}.'};
